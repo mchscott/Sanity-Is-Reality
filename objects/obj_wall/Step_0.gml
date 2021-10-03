@@ -1,0 +1,1 @@
+if (irandom_range(0,1000)=1 and obj_player.sanity<=50) image_index = 1

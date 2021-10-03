@@ -1,0 +1,1 @@
+if (obj_button.destroy_fake_buttons = 1) instance_destroy()
